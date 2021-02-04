@@ -1,7 +1,7 @@
 #======================================================================================================================
 # Title		:	Literature review of gender distribution in VL clinical trials
 # Data version	:	23-Dec-2019 (from Sauman Singh)
-# Author		:	Prabin Dahal
+# Author	:	Prabin Dahal
 # Script Date	: 	02-02-2021
 #======================================================================================================================
 #rm(list=ls())
@@ -399,7 +399,6 @@ update.meta(meta.prop.isc,
             comb.random = TRUE, 
 		comb.fixed = F
 		)
-
 #-----------------------------------
 # Subgroup analysis by pregnancy
 #-----------------------------------
@@ -408,7 +407,6 @@ update.meta(meta.prop.isc,
             comb.random = TRUE, 
 		comb.fixed = F
 		)
-
 #-----------------------------------
 # Subgroup analysis by pregnancy
 #-----------------------------------
